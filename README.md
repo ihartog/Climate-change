@@ -10,6 +10,7 @@ Een webpagina die uitleg geeft over wat de versnelde klimaat verandering.
     - Parallax scrolling.  
     - Een klimaat georienteerde css palet.  
        - Het spectrum tussen blauw en groen, Wit, Rooie tinten.  
+ ---
     - Een linkje naar een (met Unity gemaakte) VR game.  
        - Deze game laat zien hoe de wereld er uit kan zien als wij beter voor ons klimaat gaan zorgen.  
        - Deze game laat ook zien hoe we dat kunnen bereiken.  
