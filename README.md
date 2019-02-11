@@ -7,7 +7,7 @@ In dit project hebben wij een Webpagina voor u, op deze webpagina krijgt u infor
 ### Het Idee  
 ---
 Een webpagina die uitleg geeft over wat de versnelde klimaat verandering.  
-Met op deze pagina:  
+Met op deze pagina:
 1. Parallax scrolling.  
 2. Een klimaat georienteerde css palet.  
    * Het spectrum tussen blauw en groen, Wit, Rooie tinten.  
